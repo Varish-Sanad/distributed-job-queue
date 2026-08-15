@@ -1,0 +1,13 @@
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.obj
+*.out
+*.exe
+*.log
+*.wal
+.vscode/
+.idea/
+.DS_Store
